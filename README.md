@@ -1,2 +1,1 @@
-# git_practice
-DESCRIPTION GIT PRACTICE
+I am editing the README file. Adding some more details about the project description.
